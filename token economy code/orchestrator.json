@@ -1,0 +1,10 @@
+{
+    "public_blockchain": {
+        "private_key": "priv_key",
+        "address": "addr"
+    },
+    "private_blockchain": {
+        "private_key": "priv_key",
+        "address": "addr"
+    }
+}

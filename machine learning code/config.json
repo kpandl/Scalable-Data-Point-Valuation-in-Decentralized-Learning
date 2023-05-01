@@ -1,0 +1,15 @@
+{
+  "device_name": "notebook",
+  "path_to_train_csv_chexpert": "C:/Users/an7651/Documents/GitHub/AI_fairness_4/data/chexpert/CheXpert-v1.0-small/train.csv",
+  "path_to_data_images_chexpert": "/data/chexpert/",
+
+  "path_to_metadata_csv_mimic": "C:/Users/an7651/Documents/GitHub/AI_fairness_4/data/mimic/mimic-cxr-2.0.0-metadata.csv",
+  "path_to_chexpertlabels_csv_mimic": "C:/Users/an7651/Documents/GitHub/AI_fairness_4/data/mimic/mimic-cxr-2.0.0-chexpert.csv",
+  "path_to_patientdetails_csv_mimic": "C:/Users/an7651/Documents/GitHub/AI_fairness_4/data/mimic/admissions.csv",
+  "path_to_patientages_csv_mimic": "C:/Users/an7651/Documents/GitHub/AI_fairness_4/data/mimic/patients.csv",
+  "path_to_data_images_mimic": "/data/mimic/raw/physionet.org/files/mimic-cxr-jpg/2.0.0/files/",
+
+  "path_to_data_entry_nih": "C:/Users/an7651/Documents/GitHub/AI_fairness_4/data/nih/Data_Entry_2017_v2020.csv",
+  "path_to_data_images_nih": "data/nih/images"
+  
+}

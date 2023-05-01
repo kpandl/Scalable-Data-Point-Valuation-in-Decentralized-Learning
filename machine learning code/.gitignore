@@ -1,0 +1,7 @@
+data/
+*.py[cod]
+__pycache__/
+results/
+*.png
+*.csv
+*.npz
